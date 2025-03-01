@@ -4,10 +4,6 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
 
 This is a part of headout swe, backend challenge
 
-## Loom Demo Video
-
-Video :
-
 ## Installation
 
 ### Prerequisite
@@ -34,7 +30,7 @@ Video :
 
         npm install
 
-    c. Create .env in the root and copy the content of .env.sample and replace the placeholders with actuall values
+    c. Create .env in the root and copy the content of .env.sample and replace the placeholders with actual values
 
     d. Start the server using npm run start
 
@@ -54,7 +50,7 @@ Video :
 
         npm install
 
-    d. Go to the file "./globetrotter-front/src/utils/axios.js" and make sure the baseUrl matches your local server url
+    d. Go to the file "./globetrotter-frontend/src/utils/axios.js" and make sure the baseUrl matches your local server url
 
     e. Run the commad npm run dev to start the server
 
@@ -204,4 +200,4 @@ Piyush Patel ( mail: piyushpatel1746@gmail.com )
 
 Note: To get my dataset of 100+ destinations you can hit the api call on
 
-    Get /globetrotter.hikariworks.in/destinations
+    Get https://globetrotter.hikariworks.in/api/v1/destinations
