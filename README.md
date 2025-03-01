@@ -4,6 +4,8 @@ Globetrotter is a full-stack web app where users get cryptic clues about a famou
 
 This is a part of headout swe, backend challenge
 
+Live Link : https://globetrotter-guessgame.vercel.app
+
 ## Installation
 
 ### Prerequisite
